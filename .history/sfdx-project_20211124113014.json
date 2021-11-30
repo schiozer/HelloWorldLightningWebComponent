@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    { "path": "force-app", "default": true}, 
+    { "path" : "force-app/main/default/lwc/bikeCard" }, 
+    { "path" : "utils" } 
+  ],
+  "name": "HelloWorldLightningWebComponent",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}

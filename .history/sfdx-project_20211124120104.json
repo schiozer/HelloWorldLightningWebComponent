@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    { "path": "HelloWorldLightningWebComponent", "default": true},
+    { "path": "force-app"}
+
+  ],
+  "name": "HelloWorldLightningWebComponent",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}

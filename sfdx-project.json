@@ -1,0 +1,25 @@
+{
+    "packageDirectories": [
+        {
+            "path": "./force-app",
+            "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "MonsterApp",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "name": "HelloWorldLightningWebComponent",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "MonsterApp": "0Ho5f000000fxe7CAA",
+        "MonsterApp@0.1.0-1": "04t5f0000003LPDAA2",
+        "MonsterApp@0.1.0-2": "04t5f0000003LTQAA2",
+        "MonsterApp@0.1.0-3": "04t5f0000003LblAAE"
+    }
+}
